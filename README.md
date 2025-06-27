@@ -54,7 +54,7 @@ ai-reinforcement-learning/
 │   ├── mdp_gym.py            # Provided MDP environment and hashing utilities  
 │   ├── reconstruct_MDP.py    # Monte Carlo estimator for guard‐defeat probabilities  
 │   ├── Q_learning.py         # Tabular Q-learning training script  
-│   ├── vis_gym.py            # PyGame viewer for a trained policy (optional)  
+│   ├── vis_gym.py            # PyGame viewer for a trained policy   
 │   ├── Q_table.pickle        # Saved Q-table (output of Q_learning.py)  
-│   └── __pycache__/          # Compiled bytecode (you can ignore or delete this)  
+│   └── __pycache__/          # Compiled bytecode
 └── README.md                 # Project documentation (this file)
